@@ -1,6 +1,6 @@
 {
   "name": "hubot-s3-size",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that calculates the S3 bucket size",
   "main": "index.js",
   "scripts": {
